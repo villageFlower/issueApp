@@ -1,0 +1,7 @@
+{
+  "name": "issueApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
